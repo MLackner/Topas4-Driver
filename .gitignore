@@ -1,0 +1,10 @@
+# LabVIEW specific files
+*.lvlps
+*.aliases
+
+# Vim files
+*.*~
+
+# Markdown
+*.md~
+*.md.un~
